@@ -1,0 +1,1 @@
+Small experiment in turning pixels of an image into ASCII characters
